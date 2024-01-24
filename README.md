@@ -1,4 +1,4 @@
-# CMPT276F23_group21
+# Westward: A Cyborg's Odyssey
 
 ## Building the Game
 
